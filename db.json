@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "voo",
+      "std": "2 nd",
+      "fees": "1000",
+      "no": "844221620"
+    },
+    {
+      "id": 2,
+      "name": "sfadds",
+      "std": "1 st",
+      "fees": "900",
+      "no": "sdsds"
+    },
+    {
+      "id": 3,
+      "name": "ggass",
+      "std": "1 st",
+      "fees": "800",
+      "no": "sdsd"
+    },
+    {
+      "name": "smit",
+      "std": "Sr.KG",
+      "fees": "800",
+      "no": "81000022456",
+      "id": 4
+    }
+  ]
+}
