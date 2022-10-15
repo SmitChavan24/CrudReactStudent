@@ -110,12 +110,7 @@ const handleUpdate=async()=>{
           <tr><Total>Total</Total><Total></Total><Total></Total><Total id='y'></Total></tr>
         </tbody>
       </table>
-      <select style={{width:90,height:40}} value={sortvalue} onChange={handlesort}>
-      <option>Select </option>
-      {sortOptions.map((items,index)=>(<option value={items} key={index}>{items}</option>
-      ))}
        
-      </select>
 
     </Game></>
     
