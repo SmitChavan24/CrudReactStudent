@@ -1,32 +1,25 @@
 {
   "posts": [
     {
-      "id": 1,
-      "name": "voo",
-      "std": "2 nd",
-      "fees": "1000",
-      "no": "844221620"
+      "name": "vedant",
+      "std": "5 th",
+      "fees": "800",
+      "no": "81045766722",
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "sfadds",
-      "std": "1 st",
-      "fees": "900",
-      "no": "sdsds"
+      "name": "rahul",
+      "std": "6 th",
+      "fees": "1000",
+      "no": "8446699772",
+      "id": 2
     },
     {
       "id": 3,
-      "name": "ggass",
-      "std": "1 st",
-      "fees": "800",
-      "no": "sdsd"
-    },
-    {
-      "name": "smit",
-      "std": "Sr.KG",
-      "fees": "800",
-      "no": "81000022456",
-      "id": 4
+      "name": "smile",
+      "std": "10 th",
+      "fees": "850",
+      "no": "8798584455"
     }
   ]
 }

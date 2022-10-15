@@ -18,7 +18,7 @@ const Navbar = () => {
         
         </List>
         <List>
-          <Kink to="./viewstudents"> <SearchIcon/></Kink>
+          <Kink to="./viewstudents"> <SearchIcon/>View Students</Kink>
        
         
        </List>
