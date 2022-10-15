@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CrudReactStudent/static/css/main.1b059629.css",
+    "main.js": "/CrudReactStudent/static/js/main.b6bc103c.js",
+    "index.html": "/CrudReactStudent/index.html",
+    "main.1b059629.css.map": "/CrudReactStudent/static/css/main.1b059629.css.map",
+    "main.b6bc103c.js.map": "/CrudReactStudent/static/js/main.b6bc103c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b059629.css",
+    "static/js/main.b6bc103c.js"
+  ]
+}
